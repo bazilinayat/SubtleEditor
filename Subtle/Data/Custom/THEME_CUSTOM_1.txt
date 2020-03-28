@@ -1,0 +1,8 @@
+
+            QWidget{
+            background-color:#ff0000;
+            padding:1;
+            font-family:Arial;
+            color:#00ff00;
+            }
+            
